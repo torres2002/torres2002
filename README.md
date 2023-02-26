@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 📊 I’m currently learning data analysis
+📊 I’m currently learning data analysis
 
 
 
